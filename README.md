@@ -1,4 +1,0 @@
-MoeImageConvert
-===============
-
-I love Moe
